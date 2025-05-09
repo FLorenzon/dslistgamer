@@ -1,5 +1,5 @@
 # DSListGamer 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/FLorenzon/dslistgamer/new/main) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/FLorenzon/dslistgamer/blob/main/LICENSE) 
 
 # Sobre o projeto
 
