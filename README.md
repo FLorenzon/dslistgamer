@@ -23,4 +23,4 @@ A plataforma permite que os usuários gerenciem e pesquisem preferências de jog
 # Autor
 Felipe de Campos Lorenzon
 
-https://www.linkedin.com/in/felipe-de-campos-lorenzon-26948129a/
+https://www.linkedin.com/in/felipelorenzon
